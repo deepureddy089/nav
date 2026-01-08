@@ -7,7 +7,7 @@ export default function Page() {
         My Portfolio
       </h1>
       <p className="mb-4">
-        {`I am a civil engineer with over five years of experience in the demolition industry,
+        {`My name is Nav(Navadeep), I am a civil engineer with over five years of experience in the demolition industry,
         based in Australia. My professional background includes delivering complex demolition
         projects with a strong focus on safety, planning, and on-site execution.
         
